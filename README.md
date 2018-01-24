@@ -35,6 +35,9 @@ Troubleshooting :
 Check the API key and the Channel Number in the Arduino Sketch.
 
 
-Below is my room temperature which is a standard 26 def Centigrades.
+Below is my room temperature which is a standard 26 deg Centigrades.
 
 ![screen shot 2018-01-24 at 5 05 51 pm](https://user-images.githubusercontent.com/14288989/35330269-e47ac5e0-0128-11e8-9e36-7e2c16f23c88.png)
+
+
+
