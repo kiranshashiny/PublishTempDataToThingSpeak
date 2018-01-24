@@ -11,6 +11,10 @@ The Bill of Materials needed :
 	-WiFi router at home which can connect to the NodeMCU
 	-A free login account to thingspeak ( thingspeak.com).
 
+![screen shot 2018-01-24 at 5 42 42 pm](https://user-images.githubusercontent.com/14288989/35331640-0e68e530-012e-11e8-92ce-a7c50671ebe2.png)
+
+![screen shot 2018-01-24 at 5 42 21 pm](https://user-images.githubusercontent.com/14288989/35331642-0ea2405a-012e-11e8-96e1-fe46435df380.png)
+
 Steps :
 
 First, login to thingspeak and create a channel (for free), and note down the API key and the channel ID.
