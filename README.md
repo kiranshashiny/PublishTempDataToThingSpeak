@@ -23,6 +23,14 @@ Copy the code in this repo, to Arduino IDE as a sketch.
 
 Update the respective channel ID and API key in the sketch code.
 
+	unsigned long myChannelNumber = 409671;
+	const char * myWriteAPIKey = "Your API Key here";
+
+If this is the first time, then the API key can get got from Thingspeak -> API key tab
+
+![screen shot 2018-01-24 at 5 38 03 pm](https://user-images.githubusercontent.com/14288989/35331460-722137a4-012d-11e8-81e5-2fa5b4503685.png)
+
+
 Upload the code to Arduino IDE.
 
 Set the default publish to be about 15 seconds or more.
