@@ -37,5 +37,4 @@ Check the API key and the Channel Number in the Arduino Sketch.
 
 Below is my room temperature which is a standard 26 def Centigrades.
 
-(https://github.com/kiranshashiny/PublishTempDataToThingSpeak/files/1659622/Screen.Shot.2018-01-18.at.4.57.01.PM.pdf)
-
+![screen shot 2018-01-24 at 5 05 51 pm](https://user-images.githubusercontent.com/14288989/35330269-e47ac5e0-0128-11e8-9e36-7e2c16f23c88.png)
