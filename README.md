@@ -1,4 +1,4 @@
-# Publish room Temperature from sensor (DHT11)  connected to NodeMCU to cloud broker ThingSpeak.com
+# Publish Room Temperature from sensor (DHT11) connected to NodeMCU microcontroller to cloud broker ThingSpeak.com
 
 
 This blog is about publishing the room temperature from the DHT11 sensor connected to NodeMCU, and publishing using HTTP to ThingSpeak Cloud broker.
